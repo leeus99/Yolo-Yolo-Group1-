@@ -1,0 +1,24 @@
+#Starting to git push a file
+
+git init
+
+git remote add origin https://github.com/zisean/Yolo-Yolo-Group1-
+
+git add .
+
+git commit -m "<Put a significant name>"
+
+git push -u origin master
+
+------------------------------------------------------------
+
+#Add File
+
+// To sync your local file with bitbucket repository
+git pull
+
+git add <filename>
+
+git commit -m "<Put a significant name>"
+
+git push -u origin master
